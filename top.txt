@@ -1,0 +1,47 @@
+"[u'load', u'lord']",2.17147382163
+[u'laid'],1.7783031942
+[u'li'],0.643399650855
+"[u'bid', u'god', u'ldl', u'lie', u'log', u'lok', u'lou', u'mid', u'rid']",0.551485415018
+"[u'lit', u'los', u'roi']",0.508481129923
+"[u'allo', u'blot', u'clip', u'coin', u'cord', u'deli', u'flow', u'gobi', u'grid', u'guid', u'kali', u'lend', u'leon', u'lies', u'lion', u'lips', u'lock', u'loft', u'logo', u'loom', u'lrde', u'maid', u'mild', u'pliz', u'plot', u'poli', u'polo', u'sids', u'slip', u'slog', u'thid', u'wind']",0.482549738141
+[u'lot'],0.465476844828
+"[u'aid', u'ltd']",0.451632557256
+"[u'hide', u'idli', u'kids', u'lieu', u'lime', u'loaf', u'loco', u'podi', u'pond', u'puli', u'roti', u'tied', u'wild']",0.444920988683
+[u'led'],0.440320950678
+"[u'acid', u'cold', u'huli', u'iind', u'lady', u'love', u'road', u'slot']",0.422909581301
+[u'lic'],0.422472559734
+"[u'aloo', u'died', u'link', u'lone']",0.407292239225
+"[u'bond', u'word']",0.395178487599
+[u'low'],0.387752838493
+"[u'bird', u'lead', u'loss']",0.385280831843
+"[u'didn', u'told']",0.376912483139
+[u'sold'],0.369663489767
+[u'vlsi'],0.363269424461
+"[u'hold', u'mind']",0.357549738141
+[u'lose'],0.352375652496
+[u'side'],0.343306819103
+"[u'code', u'look']",0.339283733681
+[u'said'],0.335538330759
+[u'body'],0.332034740309
+"[u'held', u'live']",0.319920988683
+[u'land'],0.314746903038
+[u'old'],0.310028832157
+[u'line'],0.310023332927
+[u'lost'],0.307807237057
+[u'food'],0.305678069645
+[u'mode'],0.297909581301
+[u'list'],0.296129526412
+[u'aids'],0.291114873511
+[u'kind'],0.288011925545
+[u'gold'],0.282292239225
+[u'paid'],0.279643576841
+[u'join'],0.263065381182
+[u'find'],0.238269424461
+[u'did'],0.236611131782
+[u'long'],0.233646478679
+[u'life'],0.232009566418
+[u'good'],0.231474716671
+[u'like'],0.216258017079
+[u'also'],0.215459667246
+[u'loan'],0.177633151412
+"[u'avoid', u'blood', u'cloud', u'flood', u'fluid', u'lodge', u'logic', u'login', u'louis', u'valid']",0.0

@@ -1,0 +1,17 @@
+ r2=csv.reader(open('Match.txt','r'))
+    h={}
+    for i in r2:
+        h[i[0]]=i[1]
+    wr=csv.writer(open('Match.txt','w'))
+    for i in sorted(h.keys()):
+        wr.writerow([i,h[i]])
+    wr.close()
+    r1=csv.reader(open('Match.txt','r'))
+    q=0
+    for i in r1:
+        print i
+        q+=1
+        if i>=5:
+            break
+    #r1.close()
+    #os.remove('Match.txt')
